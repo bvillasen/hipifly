@@ -1,5 +1,3 @@
-#-- make.host for AMD Cloud Platform (ACP)
-#-- Compiler and flags for different build type
 
 # Compiler for host code
 CXX               = g++
